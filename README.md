@@ -21,6 +21,7 @@ Tc-O(N) // N is the number of Candidate and its friends
 Sc-O(N) //N is the number of candidates.
 
 #How to run
+
 1.Create a cpp file in the vscode/or any compiler.
 
 2.Copy paste this code into that file
